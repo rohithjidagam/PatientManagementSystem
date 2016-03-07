@@ -1,0 +1,52 @@
+em.heading
+{
+	color:#111111;
+	border-bottom:1px dashed violet;
+	text-align:center;
+	font-family:Arial,sans-serif;
+	font-style:italic;
+	font-size:150%;
+	margin:80px;
+}
+p.logmodule
+{
+font-family:Arial,sans-serif;
+text-align:center;
+background-color:#ffff66;
+border-width:2px;
+border-style:solid;
+border-color:#ff0066;
+color:red;
+padding:25px;
+margin-left:60px;
+margin-right:340px;
+margin-top:80px;
+margin-bottom:100px;
+width:300px;
+}
+body
+{
+font-family:Geneva,Arial,sans-serif;
+background-color:white;
+line-height:1.6em;
+}
+span
+{
+font-family:Impact,sans-serif	;
+font-size:120%;
+font-style:normal;
+color:blue;
+}
+.footer 
+{
+  background-color: #675c47;
+  color:            #efe5d0;
+  text-align:       center;
+  padding:          25px;
+  margin-top:100px;
+  font-size:        80%;
+}
+.links
+{
+float:left;
+}

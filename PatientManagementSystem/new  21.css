@@ -1,0 +1,49 @@
+
+border:thin solid black;
+border:thin dotted gray;td,th
+
+table
+{
+	margin-left:20px;
+	margin-right:20px;
+}
+td,th
+{
+	padding:5px;
+}
+.pform
+{
+border:thin dashed black;
+padding:25px;
+}
+
+
+
+body {
+  background-color: #efe5d0;
+  background-position:top left;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  margin: 20px;
+  color:green;
+}
+h1 {
+  font-size:        120%;
+  color:            #954b4b;
+}
+h2 { font-size: 110%; }
+table
+{
+	margin-left:20px;
+	border:thin solid black;
+	margin-right:20px;
+}
+td,th
+{
+	border:thin dotted gray;
+	padding:5px;
+}
+.pform
+{
+border:thin dashed black;
+padding:25px;
+}

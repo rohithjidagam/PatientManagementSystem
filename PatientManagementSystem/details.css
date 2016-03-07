@@ -1,0 +1,36 @@
+#details
+{
+	border-width:1px;
+	padding:25px;
+	margin-bottom:30px;
+}
+strong
+{
+	color:blue;
+}
+body
+{
+	background-color:#c0ff3e;
+	
+}
+td
+{
+text-align:left;
+border:1px dotted gray;
+margin:20px;
+}
+table
+{
+border:1px solid black;
+background-color:#fff68f;
+}
+th
+{
+border-right:1px solid black;
+border-bottom:1px solid black;
+color:black;
+}
+tr
+{
+border:1px solid black;
+}	
